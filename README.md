@@ -1,3 +1,19 @@
+This repository contains the [Sandstorm](https://sandstorm.io) port of
+ShareLaTeX, the original README for which is below. There are a few
+things to be aware of:
+
+- The version of ShareLaTeX packaged here is very out of date; it was
+  last updated in 2015.
+- A proper build system is missing; see
+  [#13](https://github.com/dwrensha/sharelatex/issues/13)
+- The version of the app currently in the app market is slightly
+  different from what is contained here; because of the missing build
+  system we used [these
+  scripts](https://github.com/zenhack/patch-sharelatex) to patch the
+  last package in-place; see the README for that repository for more
+  information.
+
+
 ShareLaTeX
 ==========
 
